@@ -1,6 +1,6 @@
 # First Blog, my first flask project!
 
-[Imgur](https://i.imgur.com/eEsBniG.png)
+![Imgur](https://i.imgur.com/eEsBniG.png)
 
 ## installation and structurue.
 to install the project, simply make sure that you have python and node on your PC then type `npm install` then `gulp`.
