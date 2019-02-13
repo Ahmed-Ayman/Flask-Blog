@@ -12,4 +12,5 @@ the packages of specific versions you want.
 ## flask/python notes
 
 - `'__name__' == '__main__'` is just a way to identify that the file is the one you ran from the terminal.
-- 
+- `render_template()` is used for refering to templates and passing variables.
+- `url_for` used for getting a static file like a css.
